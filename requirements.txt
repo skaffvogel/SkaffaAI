@@ -1,0 +1,9 @@
+pycoingecko
+torch
+scikit
+learn
+matplotlib
+pandas
+numpy
+mplfinance
+streamlit
